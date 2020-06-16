@@ -1,4 +1,4 @@
-# ANZ@DATA
+# ANZ@DATA Virtual Internship
 ### The Data@ANZ Program gives a peek into Exploratory and Predictive Analytics 
 Data Science is a contact sport at ANZ - it’s about mining and linking datasets to develop stories that matter and challenge the status quo.
 To distill unique insights from the data that will enable the authority to take action. The company wants to know “what does all this data actually mean for us and our clients, and what should be the next steps?”
