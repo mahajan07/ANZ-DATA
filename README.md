@@ -22,4 +22,5 @@ These attributes could be those that are readily available in the data (e.g. age
 
 #### For a challenge: build a decision-tree based model to predict salary.
 
-#### Does it perform better? How would you accurately test the performance of this model?
+#### Does it perform better? How would you accurately test the performance of this model
+
